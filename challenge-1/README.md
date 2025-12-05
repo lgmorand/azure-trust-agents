@@ -39,7 +39,7 @@ For a more detailed integration, these are the set of core concepts that complet
 - [**Workflows:**](https://learn.microsoft.com/en-us/agent-framework/user-guide/workflows/core-concepts/workflows?pivots=programming-language-csharp) A workflow is the orchestrated graph of executors and edges that manages message routing, execution order, and lifecycle during processing.
 - [**Events:**](https://learn.microsoft.com/en-us/agent-framework/user-guide/workflows/core-concepts/events?pivots=programming-language-csharp) Events provide real-time observability into workflow execution by emitting structured signals about workflow, executor, and message processing states.
 
-Please take a moment to review these concepts, as they will be important in the next chellenges.
+Please take a moment to review these concepts, as they will be important in the next challenges.
 
 ## Step-by-Step Instructions
 
